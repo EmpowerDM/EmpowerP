@@ -79,7 +79,6 @@ namespace EmpowerP_1
 			{
 				engine.GenerateInformation(element.Name);
 			}
-			
 		}
 	}
 }
